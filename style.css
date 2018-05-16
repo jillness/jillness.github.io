@@ -13,3 +13,7 @@ h3 {
 p {
     font: 1.2em "Lucida Grande", sans-serif;
 }
+
+#brand-image {
+    height: 50px;
+}
